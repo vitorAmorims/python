@@ -40,3 +40,12 @@ print(casa2)
 print('Eu tenho residência: '+ casa)
 print(myvar+casa) #aqui estou concatenando duas variaveis tipo string
 
+#atribuindo numeros
+numero = 10
+numero2 = 20
+soma = numero + numero2
+print(soma)
+
+#       IMPORTANTE não é possivel concatenar string + inteiro.
+sobrenome = 'Amorim'
+#print(sobrenome+soma)
